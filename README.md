@@ -3,3 +3,10 @@ This is a LOGO of BARANGAY LINABU BALINGSAG MISAMIS ORIENTAL
 
 Click this site for the LINABU BALINGASAG LOGO <br>
 https://raw.githack.com/Ray19-web/LINABU-LOGO/main/LINABU%20LOGO/index.html
+
+<br>
+<br> 
+Here's The PREVIEW OF THE LINABU BALINGASAG MISAMIS ORIENTAL LOGO
+
+![Image Alt Text](./LINABU%20LOGO/Screenshot%202023-12-05%20170313.png)
+
