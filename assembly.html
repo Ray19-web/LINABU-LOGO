@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="assemblystyles.css">
+    <link rel="icon" href="BARANGAY LOGO.png">
+
+    <title>ASSEMBLY</title>
+    
+</head>
+<body>
+    <div class="container">
+        <div>
+            <iframe id="videoFrame" src="https://drive.google.com/file/d/11VX5TmTozaEJ7uf54Jd9Ofse6SRtrrpx/preview?mute=1" allow="autoplay"></iframe>
+        </div>
+    </div>
+    
+<script>
+window.onload = function() {
+    var video = document.getElementById('videoFrame');
+    video.contentWindow.postMessage('{"event":"command","func":"playVideo","args":""}', '*');
+}
+</script>
+
+</body>
+</html>
